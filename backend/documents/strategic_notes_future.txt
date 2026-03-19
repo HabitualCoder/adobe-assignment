@@ -1,0 +1,10 @@
+### Strategic Notes and Risk Assessment
+
+#### Future Strategic Focus
+For 2026, the company will focus on integrating Generative AI into its core product suites and enhancing data security protocols.
+
+#### Key Risks Identified
+1. **Market Competition**: Increased competition in the mid-market SaaS segment poses a risk to our growth in 2026.
+2. **Talent Retention**: As highlighted in the Engineering update, high turnover in technical roles is a critical risk to long-term innovation.
+3. **Regulatory Changes**: Evolving data privacy laws in the EU (the upcoming Tech-GDPR 2.0) may require significant system re-architecting.
+4. **Supply Chain**: Global hardware shortages may delay our private data center expansion plans.

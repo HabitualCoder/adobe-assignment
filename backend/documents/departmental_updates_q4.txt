@@ -1,0 +1,13 @@
+### Departmental Updates - Q4 Performance Overview
+
+#### Marketing Department
+The Marketing team surpassed their lead generation targets by 20%, significantly contributing to the Q4 sales pipeline. However, their acquisition cost per lead increased by 5%.
+
+#### Engineering Department
+The Engineering department successfully launched the CloudX Platform version 2.0. However, they are currently facing a high turnover rate (12% this quarter), which is impacting the roadmap for Q1 2026.
+
+#### Sales Department
+The Sales team met 95% of their quarterly quota. Regional performance varied significantly, with North America overperforming while the European region underperformed due to regional economic shifts.
+
+#### Customer Success
+The CS team maintained a Net Promoter Score (NPS) of 78, which is above the industry average of 70.
